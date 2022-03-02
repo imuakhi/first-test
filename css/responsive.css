@@ -1,0 +1,136 @@
+
+
+@media (max-width: 575px) { 
+
+    #menu_part img{
+        height: 45px;
+    }
+    #menu_part .collapse ul{
+        background: rgba(0, 0, 0, 0.8);
+        transition: all linear 0.4s;
+    }
+    #banner-part .banner-slider .banner-text {
+        text-align: start;
+    }
+    #banner-part .banner-slider {
+        padding-top: 150px;
+    }
+    #banner-part .banner-slider .banner-text h1 {
+        font-size: 40px;
+    }
+    #banner-part .banner-slider .banner-text h3 {
+        font-size: 20px;
+        padding: 5px 0;
+    }
+    #banner-part .banner-slider .banner-text h3::before {
+        left: 0;
+    }
+    #banner-part .banner-slider .banner-text p {
+        font-size: 13px;
+        width: 295px;
+    }
+
+    #banner-part .slick-dots {
+        top: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0;
+    }
+    #banner-part .slick-dots li{
+        display: inline-block;
+        margin-right: 5px;
+    }
+    #banner-part .banner-slider .banner-text a {
+        font-size: 13px;
+        padding: 10px 15px 10px 32px;
+        margin-left: 0px;
+        margin-right: 5px;
+    }
+    #banner-part .banner-slider .banner-text a span {
+        font-size: 15px;
+    }
+    #banner-part .banner-slider .banner-text a i {
+        font-size: 20px;
+        left: 5px;
+    }
+    #banner-part .banner-slider .banner-text a .apple-icon {
+        font-size: 25px;
+        left: 5px;
+    }
+    #about_part {
+        padding: 70px 0;
+    }
+    #about_part .about-text h1 {
+        margin-top: 0px;
+    }
+    #features_part .header-text-features h1::before {
+        bottom: -65px;
+        left: 90px;
+    }
+    #about_part .about-img{
+        margin-top: 25px;
+    }
+    #features_part .img-part img {
+        display: none;
+    }
+    #features_part .text-part {
+        text-align: center;
+    }
+    #features_part .text-part h2 {
+        margin-top: 55px;
+    }
+    #screen_part {
+        padding: 30px 0;
+        padding-bottom: 0px;
+    }
+    #screen_part h1 {
+        margin-top: 35px;
+    }
+    #video_part {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    #plan_part .item-plan-1 {
+        margin-bottom: 40px;
+    }
+
+    #plan_part {
+        padding-bottom: 65px;
+    }
+
+    #team_part {
+        height: 1545px;
+    }
+    #team_part .team-member {
+        margin-bottom: 200px;
+    }
+    #team_part .team-member .team-overlay p {
+        padding: 0 50px;
+    }
+
+
+
+
+    #touch_part .input-name {
+        margin-bottom: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
